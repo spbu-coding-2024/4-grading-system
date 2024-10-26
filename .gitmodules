@@ -22,3 +22,6 @@
 [submodule "4-Nasty12121"]
 	path = 4-Nasty12121
 	url = git@github.com:spbu-coding-2024/4-Nasty12121.git
+[submodule "4-epishkin06"]
+	path = 4-epishkin06
+	url = git@github.com:spbu-coding-2024/4-epishkin06.git
