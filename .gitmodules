@@ -49,3 +49,6 @@
 [submodule "4-End0ra"]
 	path = 4-End0ra
 	url = git@github.com:spbu-coding-2024/4-End0ra.git
+[submodule "4-XRenso"]
+	path = 4-XRenso
+	url = git@github.com:spbu-coding-2024/4-XRenso.git
