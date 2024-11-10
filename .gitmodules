@@ -130,3 +130,6 @@
 [submodule "4-TheFollan"]
 	path = 4-TheFollan
 	url = git@github.com:spbu-coding-2024/4-TheFollan.git
+[submodule "4-lev666"]
+	path = 4-lev666
+	url = git@github.com:spbu-coding-2024/4-lev666.git
