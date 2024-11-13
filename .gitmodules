@@ -136,3 +136,6 @@
 [submodule "4-Soslan977"]
 	path = 4-Soslan977
 	url = git@github.com:spbu-coding-2024/4-Soslan977.git
+[submodule "4-MaksimGSI"]
+	path = 4-MaksimGSI
+	url = git@github.com:spbu-coding-2024/4-MaksimGSI.git
