@@ -139,3 +139,6 @@
 [submodule "4-MaksimGSI"]
 	path = 4-MaksimGSI
 	url = git@github.com:spbu-coding-2024/4-MaksimGSI.git
+[submodule "4-desiredeternity"]
+	path = 4-desiredeternity
+	url = git@github.com:spbu-coding-2024/4-desiredeternity.git
