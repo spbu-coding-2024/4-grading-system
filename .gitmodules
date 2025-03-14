@@ -145,3 +145,6 @@
 [submodule "4-Nicholas-uni"]
 	path = 4-Nicholas-uni
 	url = git@github.com:spbu-coding-2024/4-Nicholas-uni.git
+[submodule "4-silvitreatment"]
+	path = 4-silvitreatment
+	url = git@github.com:spbu-coding-2024/4-silvitreatment.git
