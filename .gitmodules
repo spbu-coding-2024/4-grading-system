@@ -154,3 +154,6 @@
 [submodule "4-MagomedovMuhammed"]
 	path = 4-MagomedovMuhammed
 	url = git@github.com:spbu-coding-2024/4-MagomedovMuhammed.git
+[submodule "4-Zestria"]
+	path = 4-Zestria
+	url = git@github.com:spbu-coding-2024/4-Zestria.git
